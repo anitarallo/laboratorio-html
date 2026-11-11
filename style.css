@@ -96,20 +96,3 @@ footer {
 caption {font-weight:bold; color: blue}
 th {background-color: yellow;}
 td {text-align: center;}
-body {
-    font-family: "Courier";
-    word-spacing: 1px;
-}
-
-h1 {
-    font-family: "Verdana";
-    text-align: center;
-    color: blue;
-    word-spacing: 6px;
-}
-
-p.titoletto {
-    color: red;
-    font-weight: bold;
-    word-spacing: 20px;
-}
